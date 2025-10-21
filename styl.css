@@ -1,0 +1,15 @@
+/* Added some Hacktoberfest styles */
+body {
+  background-color: #22223b;
+  color: #f2e9e4;
+  font-family: 'Segoe UI', sans-serif;
+}
+.hacktoberfest-banner {
+  background: linear-gradient(90deg,#ff6f00, #feef6d);
+  color: #22223b;
+  margin: 1rem auto;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 1.25rem;
+}
